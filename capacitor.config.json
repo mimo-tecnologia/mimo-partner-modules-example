@@ -1,0 +1,13 @@
+{
+  "appId": "com.portalmimo.partneriframetest",
+  "appName": "MIMO Partner Example",
+  "webDir": "dist",
+  "android": {
+    "webContentsDebuggingEnabled": true
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
